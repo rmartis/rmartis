@@ -5,25 +5,8 @@
 
 <br/>
 
-Colons can be used to align columns.
-
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rmartis&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)       | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmartis)](https://github.com/anuraghazra/github-readme-stats)           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rmartis&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmartis)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
