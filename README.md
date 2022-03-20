@@ -7,7 +7,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rmartis&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmartis)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
