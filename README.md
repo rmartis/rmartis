@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Roman Martiš's profile!
+  Welcome to RMLabs Studio's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
