@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hi, I'm $$USERNAME$$! Welcome to my GitHub profile. Here are a few things about me:
+Hi, I'm rmartis! Welcome to my GitHub profile. Here are a few things about me:
 
 - 🔭 I’m currently working on...
 - 🌱 I’m currently learning...
@@ -13,8 +13,8 @@ Hi, I'm $$USERNAME$$! Welcome to my GitHub profile. Here are a few things about 
 
 ## GitHub Stats
 
-![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true)
+![$$USERNAME$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=rmartis&show_icons=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$USERNAME$$)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmartis)
